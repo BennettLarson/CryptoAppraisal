@@ -1,4 +1,4 @@
-# NOTE:
+# Note:
 This is taken from the angular-truffle-box provided by truffle.
 I figured we can just use this as a starting point, and clean it up as we go along. 
 Or scrap it and start our own if we so choose.
